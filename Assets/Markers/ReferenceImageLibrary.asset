@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 4679596279093885591
+  m_GuidHigh: 16660799839255681973
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4737964647735675056
+      m_GuidHigh: 5511802527492050855
+    m_SerializedTextureGuid:
+      m_GuidLow: 6612640698287373859
+      m_GuidHigh: 17514857372961635880
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Lithium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5564689799265035717
+      m_GuidHigh: 10146133732712020408
+    m_SerializedTextureGuid:
+      m_GuidLow: 10985494106010328231
+      m_GuidHigh: 12342347399628716010
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Sodium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5514005316119665233
+      m_GuidHigh: 5925362425520860577
+    m_SerializedTextureGuid:
+      m_GuidLow: 6896413382801666903
+      m_GuidHigh: 12486035537025879352
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: Potassium
+    m_Texture: {fileID: 0}
